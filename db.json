@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Maria Silva",
+            "email": "mariasilva@example.com",
+            "password": "12345",
+            "image": "https://i.pravatar.cc/150?u=mariasilva@example"
+        },
+        {
+            "id": 2,
+            "name": "Pedro Souza",
+            "email": "pedrosouza@example.com",
+            "password": "qwerty",
+            "image": "https://i.pravatar.cc/150?u=pedrosouza@example"
+        },
+        {
+            "id": 3,
+            "name": "Ana Oliveira",
+            "email": "anaoliveira@example.com",
+            "password": "senha123",
+            "image": "https://i.pravatar.cc/150?u=anaoliveira@example"
+        },
+        {
+            "id": 4,
+            "name": "Lucas Santos",
+            "email": "lucassantos@example.com",
+            "password": "abc123",
+            "image": "https://i.pravatar.cc/150?u=lucassantos@example"
+        },
+        {
+            "id": 5,
+            "name": "Julia Ferreira",
+            "email": "juliaferreira@example.com",
+            "password": "senha1234",
+            "image": "https://i.pravatar.cc/150?u=juliaferreira@example"
+        },
+        {
+            "id": 6,
+            "name": "Rafaela Almeida",
+            "email": "rafaelaalmeida@example.com",
+            "password": "qwe123",
+            "image": "https://i.pravatar.cc/150?u=rafaelaalmeida@example"
+        },
+        {
+            "id": 7,
+            "name": "Gustavo Castro",
+            "email": "gustavocastro@example.com",
+            "password": "senha12345",
+            "image": "https://i.pravatar.cc/150?u=gustavocastro@example"
+        },
+        {
+            "id": 8,
+            "name": "Fernanda Gomes",
+            "email": "fernandagomes@example.com",
+            "password": "abc1234",
+            "image": "https://i.pravatar.cc/150?u=fernandagomes@example"
+        },
+        {
+            "id": 9,
+            "name": "Isabela Carvalho",
+            "email": "isabelacarvalho@example.com",
+            "password": "flut1234",
+            "image": "https://i.pravatar.cc/150?u=isabelacarvalho@example"
+        },
+        {
+            "id": 10,
+            "name": "Roberto Costa",
+            "email": "robertocosta@example.com",
+            "password": "senha123456",
+            "image": "https://i.pravatar.cc/150?u=robertocosta@example"
+        }
+    ],
+    "products": [
+        {
+            "id": 0,
+            "title": "Academia do flutter"
+        },
+        {
+            "id": 1,
+            "title": "Jornada Dart"
+        },
+        {
+            "id": 2,
+            "title": "Jornada GetX"
+        }
+    ]
+}
